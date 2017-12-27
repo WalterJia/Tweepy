@@ -1,5 +1,5 @@
 import re
-from slistener import SListener
+from slistener_new import SListener
 import time, tweepy, sys
 
 ## authentication
